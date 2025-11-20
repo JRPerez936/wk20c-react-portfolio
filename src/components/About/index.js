@@ -9,7 +9,7 @@ function About() {
       <img src={coverImage} className="my-2" style={{ width: "15%" }} alt="perez_j" />
       <div className="my-2">
         <p>
-        Hi, my name is Justin Perez. I am a Full Stack Web Developer, and a Junior at Rutgers University studying Information Technology and Computer Science. I've been described as efficient and hardworking, and am constantly improving my skills in communication and problem-solving. I actively strive towards discovering and learning to use cutting-edge technology and software that may become useful in workplace enviornments.
+        Hi, my name is Justin Perez. I am an Experienced Linux Cloud Support Engineer at AWS, a certified Full Stack Web Developer, and a graduate of Rutgers University with a Bachlors Information Technology and Computer Science. I've been described as efficient and hardworking, and am constantly improving my skills in communication and problem-solving. I actively strive towards discovering and learning to use cutting-edge technology and software that may become useful in workplace enviornments.
       </p>
       </div>
     </section>
